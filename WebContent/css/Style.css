@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+body{
+	width: 100%;
+}
+
+
+.btn {
+	display: block;
+	margin: 0 0 0 auto;
+}
+
+.btn2 {
+	float: right;
+}
+
+.btn3 {
+	float: right;
+}
+
+buttons{
+	 style="display:inline-flex">
+}
